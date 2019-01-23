@@ -7,6 +7,7 @@ var apps = []string{
 	"ansible",
 	"ballerina",
 	"chronograf",
+	"clair",
 	"consul",
 	"couchdb",
 	"cyberchef",
